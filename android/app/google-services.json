@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "196436004994",
+    "project_id": "haefreepay",
+    "storage_bucket": "haefreepay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196436004994:android:10f79112b264fcb314649b",
+        "android_client_info": {
+          "package_name": "com.hasslefreepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196436004994-8u37uhvf3u22rr3501h7dm4rdjb7qn44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasslefreepay",
+            "certificate_hash": "df6ce0cc810b12d99167f6450d5de006340eddfd"
+          }
+        },
+        {
+          "client_id": "196436004994-jr25uv1n7b5tq27ntti6l1d76triac13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqb-5mMHmGpDpEsspRk3CX3GjEKdbVWlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196436004994-jr25uv1n7b5tq27ntti6l1d76triac13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "expo": {
+    "android": {
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "plugins": ["@react-native-google-signin/google-signin"]
+  },
+  "configuration_version": "1"
+}
